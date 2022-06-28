@@ -16,7 +16,7 @@ Create and activate a venv:
 python3 -m venv venv
 ```
 ```
-source env/bin/activate
+source venv/bin/activate
 ```
 Install dependencies from a file requirements.txt:
 ```
