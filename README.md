@@ -1,6 +1,6 @@
 # **API for YaTube**
 ## **Description**
-API for interacting with **YaTube**(https://github.com/nastyatonkova/hw05_final) project.
+API for interacting with **YaTube** (https://github.com/nastyatonkova/hw05_final) project.
 ### Authors
 Anastasiia Tonkova
 ## **How to start the project**
