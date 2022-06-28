@@ -13,7 +13,7 @@ cd api_yatube
 ```
 Create and activate a venv:
 ```
-python3 -m venv env
+python3 -m venv venv
 ```
 ```
 source env/bin/activate
